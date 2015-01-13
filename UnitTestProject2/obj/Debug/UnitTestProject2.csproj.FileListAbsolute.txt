@@ -1,0 +1,5 @@
+D:\Webroot\Project5\Code\pcMaster\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+D:\Webroot\Project5\Code\pcMaster\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+D:\Webroot\Project5\Code\pcMaster\UnitTestProject2\obj\Debug\UnitTestProject2.csprojResolveAssemblyReference.cache
+D:\Webroot\Project5\Code\pcMaster\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+D:\Webroot\Project5\Code\pcMaster\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
